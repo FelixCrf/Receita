@@ -1,10 +1,18 @@
-img {
-    border-radius: 16px;
-    
-    
+body {
+    background-image: url(assets/bg-image.png);
+    background-size: cover;
+    background-color: rgb(61, 42, 48);
 }
 
-body {
+#page {
+    width: 800px;
+    padding: 24px;
     background-color: #F0E8C2;
+}
+
+
+img {
+    border-radius: 16px;
+       
 }
 
